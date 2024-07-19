@@ -29,10 +29,5 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Tanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanishkaMarrott&show_icons=true&theme=radical)
-
----
-
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=TanishkaMarrott&theme=radical)
