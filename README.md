@@ -35,6 +35,3 @@
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=TanishkaMarrott&theme=radical)
 
----
-
-Let me know if there are any other updates or additions you'd like to include!
