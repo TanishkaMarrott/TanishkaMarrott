@@ -1,11 +1,12 @@
+
 # Hi 👋, I'm Tanishka Marrott
 
 ### A passionate DevOps and DevSecOps professional
 
-- 🌱 My forte lies in **Cloud Security, System Design & Advanced DevOps/ DevSecOps Practices**
+- 🌱 My forte lies in **Cloud Security, System Design & Advanced DevOps/DevSecOps Practices**
 - 💼 All of my projects are available at [GitHub](https://github.com/TanishkaMarrott)
 - 📝 I regularly write articles on [Hashnode](https://cloud-design-diaries.hashnode.dev/)
-- 💬 Ask me about **AWS, Docker, Kubernetes, GitLab, Jenkins, Ansible, Terraform, Prometheus, Grafana**
+- 💬 Ask me about **AWS, Docker, Kubernetes, GitLab, Jenkins, Ansible, Terraform, Prometheus, Grafana, GCP, ArgoCD, Real-time Streaming Data**
 - 📫 How to reach me **tanishka.marrott@gmail.com**
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tanishka-marrott/)
 
@@ -26,8 +27,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FF9E0F?style=for-the-badge&logo=argo&logoColor=white)
+![Real-time Streaming](https://img.shields.io/badge/Real--time_Streaming-0A66C2?style=for-the-badge&logo=data&logoColor=white)
 
 ---
 
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=TanishkaMarrott&theme=radical)
+
+---
+
+Let me know if there are any other updates or additions you'd like to include!
