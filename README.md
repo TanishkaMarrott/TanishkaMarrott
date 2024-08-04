@@ -6,7 +6,7 @@
 - 🌱 My forte lies in **Cloud Security, System Design & Advanced DevOps/DevSecOps Practices**
 - 💼 All of my projects are available at [GitHub](https://github.com/TanishkaMarrott)
 - 📝 I regularly write articles on [Hashnode](https://cloud-design-diaries.hashnode.dev/)
-- 💬 Ask me about **AWS, Docker, Kubernetes, GitLab, Jenkins, Ansible, Terraform, Prometheus, Grafana, GCP, ArgoCD, Real-time Streaming Data**
+- 💬 Ask me about **AWS, Docker, Kubernetes, GitLab, Jenkins, Ansible, Terraform, Prometheus, Grafana, GCP, ArgoCD**
 - 📫 How to reach me **tanishka.marrott@gmail.com**
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tanishka-marrott/)
 
