@@ -1,4 +1,3 @@
-
 # Hi 👋, I'm Tanishka Marrott
 
 ### A passionate DevOps and DevSecOps professional
@@ -6,7 +5,7 @@
 - 🌱 My forte lies in **Cloud Security, System Design & Advanced DevOps/DevSecOps Practices**
 - 💼 All of my projects are available at [GitHub](https://github.com/TanishkaMarrott)
 - 📝 I regularly write articles on [Hashnode](https://cloud-design-diaries.hashnode.dev/)
-- 💬 Ask me about **AWS, Docker, Kubernetes, GitLab, Jenkins, Ansible, Terraform, Prometheus, Grafana, GCP, ArgoCD**
+- 💬 Ask me about **AWS, Docker, Kubernetes, GitLab, Jenkins, Ansible, Terraform, Prometheus, Grafana, GCP, ArgoCD, Security Best Practices, CI/CD Automation**
 - 📫 How to reach me **tanishka.marrott@gmail.com**
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tanishka-marrott/)
 
@@ -21,6 +20,7 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,6 +29,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-FF9E0F?style=for-the-badge&logo=argo&logoColor=white)
 ![Real-time Streaming](https://img.shields.io/badge/Real--time_Streaming-0A66C2?style=for-the-badge&logo=data&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-6E4C41?style=for-the-badge&logo=vault&logoColor=white)
 
 ---
 
