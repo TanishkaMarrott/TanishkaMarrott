@@ -1,17 +1,26 @@
 # Hi 👋, I'm Tanishka Marrott
 
-### A passionate DevOps and DevSecOps professional
+### Expert DevOps & DevSecOps Engineer | Cloud Security & Automation Specialist
 
-- 🌱 My forte lies in **Cloud Security, System Design & Advanced DevOps/DevSecOps Practices**
-- 💼 All of my projects are available at [GitHub](https://github.com/TanishkaMarrott)
-- 📝 I regularly write articles on [Hashnode](https://cloud-design-diaries.hashnode.dev/)
-- 💬 Ask me about **AWS, Docker, Kubernetes, GitLab, Jenkins, Ansible, Terraform, Prometheus, Grafana, GCP, ArgoCD, Security Best Practices, CI/CD Automation**
-- 📫 How to reach me **tanishka.marrott@gmail.com**
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tanishka-marrott/)
+- 🌱 I specialize in **Cloud Security, System Design, CI/CD Automation, & Advanced DevSecOps Practices**
+
+- 💼 Explore my featured projects on [GitHub](https://github.com/TanishkaMarrott), including:
+   - **Automated DevSecOps Pipelines** with Terraform, Jenkins, and Kubernetes.
+   - **Serverless Real-Time Communication System** using AWS Lambda, DynamoDB, and WebSocket API.
+   - **Cloud Cost Optimization Framework** that reduced cloud infrastructure costs by 25%.
+
+- 📝 I regularly write articles on **DevOps, Cloud Security, and System Design** on [Hashnode](https://cloud-design-diaries.hashnode.dev/)
+
+- 💬 Let's talk about **AWS, Docker, Kubernetes, GitLab, Jenkins, Ansible, Terraform, Prometheus, Grafana, GCP, ArgoCD, Security Best Practices, CI/CD Automation**
+
+- 📫 Reach me at **[tanishka.marrott@gmail.com](mailto:tanishka.marrott@gmail.com)** for opportunities in **DevOps**, **Cloud Security**, and **System Design**.
+
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tanishka-marrott/) to discuss **innovative DevOps practices** and **collaborative cloud projects**
 
 ---
 
-### Languages and Tools:
+### 🔧 Languages and Tools:
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
