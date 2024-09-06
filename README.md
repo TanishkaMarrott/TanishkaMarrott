@@ -4,7 +4,7 @@
 
 - 🌱 I specialize in **Cloud Security, System Design, CI/CD Automation, & Advanced DevSecOps Practices**
 
-- 💼 Explore my featured projects on [GitHub](https://github.com/TanishkaMarrott), including:
+- 💼 Explore my featured projects on [GitHub](https://github.com/TanishkaMarrott?tab=repositories), including:
    - **Automated DevSecOps Pipelines** with Terraform, Jenkins, and Kubernetes.
    - **Serverless Real-Time Communication System** using AWS Lambda, DynamoDB, and WebSocket API.
    - **Cloud Cost Optimization Framework** that reduced cloud infrastructure costs by 25%.
