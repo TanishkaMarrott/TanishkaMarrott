@@ -4,16 +4,16 @@
 
 ### Expert DevOps & DevSecOps Engineer | Cloud Security & Automation Specialist
 
-- 🌱 I specialize in **Cloud Security, System Design, CI/CD Automation, & Advanced DevSecOps Practices**  
+- 🌱 I specialize in **Cloud Security, System Design, CI/CD Automation & Advanced DevSecOps Practices**  
 - 💼 Explore my featured projects on [GitHub](https://github.com/TanishkaMarrott?tab=repositories), including:  
-   - **Automated DevSecOps Pipelines** with Terraform, Jenkins, and Kubernetes, improving deployment efficiency by **50%**.
-   - **Serverless Real-Time Communication System** using AWS Lambda, DynamoDB, and WebSocket API, boosting user engagement by **35%**.
+   - **Automated DevSecOps Pipelines** with Terraform, Jenkins and Kubernetes, improving deployment efficiency by **50%**.
+   - **Serverless Real-Time Communication System** using AWS Lambda, DynamoDB and WebSocket API, boosting user engagement by **35%**.
    - **Cloud Cost Optimization Framework** that reduced cloud infrastructure costs by **25%** through strategic EC2 right-sizing and automation.
     
-- 📝 I regularly write articles on **DevOps, Cloud Security, and System Design** on [Hashnode](https://cloud-design-diaries.hashnode.dev/), sharing insights from my ongoing projects and technical experience.
+- 📝 I regularly write articles on **DevOps, Cloud Security and System Design** on [Hashnode](https://cloud-design-diaries.hashnode.dev/), sharing insights from my ongoing projects and technical experience.
   
 - 💬 Let's talk about **AWS, Docker, Kubernetes, GitLab, Jenkins, Ansible, Terraform, Prometheus, Grafana, GCP, ArgoCD, Security Best Practices, CI/CD Automation**  
-- 📫 Reach me at **[tanishka.marrott@gmail.com](mailto:tanishka.marrott@gmail.com)** for opportunities in **DevOps**, **Cloud Security**, and **System Design**.
+- 📫 Reach me at **[tanishka.marrott@gmail.com](mailto:tanishka.marrott@gmail.com)** for opportunities in **DevOps**, **Cloud Security** and **System Design**.
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tanishka-marrott/) to discuss **innovative DevOps practices** and **collaborative cloud projects**.
 
 ---
