@@ -47,10 +47,6 @@
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=TanishkaMarrott&theme=radical)
 
----
-
-### 🎨 Visualize Your Projects:
-![System Architecture](#) — Insert system diagrams that visualize project workflows and data flow between services like **AWS Lambda**, **Kubernetes**, and **Terraform**. Visuals will engage readers and demonstrate the complexity of your solutions.
 
 ---
 
