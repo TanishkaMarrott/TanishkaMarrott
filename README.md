@@ -1,4 +1,4 @@
-# Hi, I'm Tanishka Marrott
+
 
 ### AI Agent Systems Engineer &nbsp;·&nbsp; Cloud & AWS Governance
 
