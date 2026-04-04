@@ -1,60 +1,71 @@
+# Hi, I'm Tanishka Marrott
 
+### AI Agent Systems Engineer &nbsp;·&nbsp; Cloud & AWS Governance
 
-# Hi 👋, I'm Tanishka Marrott
+I build autonomous AI agent systems that govern cloud infrastructure — from multi-agent deliberation and SCP enforcement, to behavioural memory pipelines and predictive autoscaling. My work sits at the intersection of LLM orchestration, AWS infrastructure engineering, and applied system design.
 
-### Expert DevOps & DevSecOps Engineer | Cloud Security & Automation Specialist
-
-- 🌱 I specialize in **Cloud Security, System Design, CI/CD Automation & Advanced DevSecOps Practices**  
-- 💼 Explore my featured projects on [GitHub](https://github.com/TanishkaMarrott?tab=repositories), including:  
-   - **Automated DevSecOps Pipelines** with Terraform, Jenkins and Kubernetes, improving deployment efficiency by **50%**.
-   - **Serverless Real-Time Communication System** using AWS Lambda, DynamoDB and WebSocket API, boosting user engagement by **35%**.
-   - **Cloud Cost Optimization Framework** that reduced cloud infrastructure costs by **25%** through strategic EC2 right-sizing and automation.
-    
-- 📝 I regularly write articles on **DevOps, Cloud Security and System Design** on [Hashnode](https://cloud-design-diaries.hashnode.dev/), sharing insights from my ongoing projects and technical experience.
-  
-- 💬 Let's talk about **AWS, Docker, Kubernetes, GitLab, Jenkins, Ansible, Terraform, Prometheus, Grafana, GCP, ArgoCD, Security Best Practices, CI/CD Automation**  
-- 📫 Reach me at **[tanishka.marrott@gmail.com](mailto:tanishka.marrott@gmail.com)** for opportunities in **DevOps**, **Cloud Security** and **System Design**.
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tanishka-marrott/) to discuss **innovative DevOps practices** and **collaborative cloud projects**.
+Currently: **AWS Cloud Engineer at KodeKloud** — designing and validating AI sentinel systems for multi-organisation AWS lab account governance.
 
 ---
 
-### 🔧 Languages and Tools:
+### 🤖 Featured Work
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+**[AI Sentinel Ecosystem](https://github.com/TanishkaMarrott/ai-sentinel-ecosystem)**
+5-agent autonomous system — quorum governance, predictive autoscaling, cost enforcement, account recovery, and learner intelligence — governing AWS lab accounts across multiple AWS Organisations. Built on the Claude Code Agent SDK with a deterministic 20+ tool MCP layer and rigorous E2E evaluation across 25+ scenarios.
+
+**[Learner Intelligence Pipeline](https://github.com/TanishkaMarrott/learner-intelligence-pipeline)**
+Behavioural memory system using mem0 OSS (Qdrant + Neo4j + Ollama) with Claude for cohort graph modelling, entity extraction, and automated insight generation from learner activity signals.
+
+**[DevSecOps Pipeline](https://github.com/TanishkaMarrott/Building-a-Resilient-DevSecOps-Pipeline-for-a-Reddit-Clone-Utilizing-Jenkins-ArgoCD-Prometheus-G)**
+Resilient CI/CD pipeline integrating SonarQube, Trivy, and OWASP scanning — improved HITRUST compliance posture by 25%.
+
+**[Real-Time Streaming Analytics](https://github.com/TanishkaMarrott/Real-Time-Streaming-Analytics-with-Kinesis-Flink-and-OpenSearch)**
+End-to-end streaming pipeline using Kinesis, Apache Flink, and OpenSearch for sub-second analytics.
+
+---
+
+### 🔧 Tech Stack
+
+**AI & Agents**
+
+![Claude](https://img.shields.io/badge/Claude_Agent_SDK-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Servers-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![mem0](https://img.shields.io/badge/mem0_OSS-FF6B6B?style=for-the-badge&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+
+**Cloud & Infrastructure**
+
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Backend & DevSecOps**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-FF9E0F?style=for-the-badge&logo=argo&logoColor=white)
-![Real-time Streaming](https://img.shields.io/badge/Real--time_Streaming-0A66C2?style=for-the-badge&logo=data&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-6E4C41?style=for-the-badge&logo=vault&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 ---
 
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=TanishkaMarrott&theme=radical)
+### 📜 Certifications
 
-
----
-
-### 💬 Testimonials:
-> *“Tanishka's contributions in automating our cloud infrastructure saved us 50% in deployment time. Her ability to collaborate across teams made her an indispensable part of our project.”*  
-> – Senior DevOps Engineer, Quantiphi
+- AWS Solutions Architect – Associate
+- GCP Professional Cloud Architect
+- HashiCorp Certified Terraform Associate
+- TOGAF 10 – Level 1 &nbsp;|&nbsp; Member, Association of Enterprise Architects
 
 ---
 
-### 🚀 What Drives Me:
-I’m constantly evolving, staying on top of the latest **AWS whitepapers** and **security best practices** to bring innovative, cutting-edge solutions to the cloud world. My goal is to transform cloud platforms into highly scalable, secure environments that drive business success.
+### 📫 Connect
+
+- **Email:** tanishka.marrott@gmail.com
+- **LinkedIn:** [linkedin.com/in/tanishka-marrott](https://www.linkedin.com/in/tanishka-marrott/)
+- **Blog:** [cloud-design-diaries.hashnode.dev](https://cloud-design-diaries.hashnode.dev/)
