@@ -8,23 +8,36 @@ Currently: **AWS Cloud Engineer at KodeKloud** — designing and validating AI s
 
 ### 🤖 Featured Work
 
+**[AI Sentinel Ecosystem](https://github.com/TanishkaMarrott/ai-sentinel-ecosystem)**
+5-agent autonomous system governing AWS lab accounts across multiple AWS Organisations — quorum deliberation, cost enforcement, predictive autoscaling, account recovery, and learner intelligence. Built on the Claude Agent SDK with a deterministic 20+ tool MCP layer. Validated across 49 runs, 30 scenarios: 98.4% detection accuracy, zero false-positive quarantines.
+
+**[AWS SAR MCP Server](https://github.com/TanishkaMarrott/aws-sar-mcp)**
+FastMCP server exposing the AWS Service Authorization Reference as LLM-callable tools — look up IAM actions, find destructive operations by service, compare permissions, and search across all 300+ AWS services. Zero AWS credentials required.
+
+**[mem0 Pipeline](https://github.com/TanishkaMarrott/mem0-pipeline)**
+Three-layer developer memory pipeline — mem0 fact extraction, Qdrant vector store, and Neo4j entity graph — with Claude reasoning over both layers for deep developer insight generation from GitHub activity signals.
+
 **[Dual Agent Memory](https://github.com/TanishkaMarrott/dual-agent-memory)**
-Two Claude agents (AWS Resource Finder + AWS Recommender) sharing a persistent Hindsight memory bank via the Claude Agent SDK. Agents retain world facts and experience facts across runs — demonstrates tool use, agentic loops, and cross-agent memory patterns.
+Two Claude agents (AWS Resource Finder + AWS Recommender) sharing a persistent Hindsight memory bank via the Claude Agent SDK. Demonstrates tool use, agentic loops, and cross-agent memory patterns.
 
 **[LangGraph Agent](https://github.com/TanishkaMarrott/langgraph-agent)**
-Stateful research + synthesis agent built with LangGraph and Claude. Separates research (tool use loop) from synthesis (clean answer generation) using conditional graph edges, typed `AgentState`, `ToolNode`, and `MemorySaver` checkpointing.
+Stateful AWS infrastructure audit agent built with LangGraph and Claude. Conditional routing skips deep investigation on clean accounts (~40% cost reduction). Typed `AuditState`, `MemorySaver` checkpointing, 43 tests passing.
 
 **[Bedrock RAG Pipeline](https://github.com/TanishkaMarrott/bedrock-rag-pipeline)**
 End-to-end RAG pipeline on AWS Bedrock — document ingestion to S3, Knowledge Base creation, ingestion job orchestration, and grounded generation via the `RetrieveAndGenerate` API with Claude. Structured citations on every response.
 
-**[AWS SAR MCP Server](https://github.com/TanishkaMarrott/aws-sar-mcp)**
-FastMCP server exposing the AWS Service Authorization Reference as LLM-callable tools — look up IAM actions, find destructive operations by service, compare permissions, and search across all 300+ AWS services. Zero API key required.
+---
 
-**[mem0 Pipeline](https://github.com/TanishkaMarrott/mem0-pipeline)**
-Developer memory pipeline using mem0 OSS (Qdrant vector store + Neo4j entity graph + Ollama) with Claude for cohort graph modelling, entity extraction, and automated insight generation from GitHub activity signals.
+### 🌐 Open Source Contributions
 
-**[AI Sentinel Ecosystem](https://github.com/TanishkaMarrott/ai-sentinel-ecosystem)**
-5-agent autonomous system — quorum governance, predictive autoscaling, cost enforcement, account recovery, and learner intelligence — governing AWS lab accounts across multiple AWS Organisations. Built on the Claude Code Agent SDK with a deterministic 20+ tool MCP layer.
+| PR | Repo | Status |
+|----|------|--------|
+| [#589 — Multi-agent quorum notebook](https://github.com/anthropics/claude-cookbooks/pull/589) | `anthropics/claude-cookbooks` | Open |
+| [#588 — Cookbook typo fixes](https://github.com/anthropics/claude-cookbooks/pull/588) | `anthropics/claude-cookbooks` | Open |
+| [#4091 — MCP server launch docs](https://github.com/modelcontextprotocol/servers/pull/4091) | `modelcontextprotocol/servers` | Open |
+| [#5093 — AWS knowledge graph cookbook](https://github.com/mem0ai/mem0/pull/5093) | `mem0ai/mem0` | Open |
+| [#7755 — AWS infrastructure audit agent](https://github.com/langchain-ai/langgraph/pull/7755) | `langchain-ai/langgraph` | Open |
+| [#495 — Claude quorum agent example](https://github.com/2FastLabs/agent-squad/pull/495) | `awslabs/multi-agent-orchestrator` | Open |
 
 ---
 
