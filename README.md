@@ -11,11 +11,14 @@ Currently: **AWS Cloud Engineer at KodeKloud** — designing and validating AI s
 **[AI Sentinel Ecosystem](https://github.com/TanishkaMarrott/ai-sentinel-ecosystem)**
 5-agent autonomous system governing AWS lab accounts across multiple AWS Organisations — quorum deliberation, cost enforcement, predictive autoscaling, account recovery, and learner intelligence. Built on the Claude Agent SDK with a deterministic 20+ tool MCP layer. Validated across 49 runs, 30 scenarios: 98.4% detection accuracy, zero false-positive quarantines.
 
+**[Claude Sandboxed Agent](https://github.com/TanishkaMarrott/claude-sandboxed-agent)**
+Production support intelligence system where Claude operates inside a strict tool sandbox — three explicitly permitted tools (account state, policy evaluation, audit trail), each with isolated credentials. Live infra access, not static RAG. WebSocket streaming, Firebase auth, and team-scoped JWT validation enforced at the path level.
+
 **[AWS SAR MCP Server](https://github.com/TanishkaMarrott/aws-sar-mcp)**
 FastMCP server exposing the AWS Service Authorization Reference as LLM-callable tools — look up IAM actions, find destructive operations by service, compare permissions, and search across all 300+ AWS services. Zero AWS credentials required.
 
 **[mem0 Pipeline](https://github.com/TanishkaMarrott/mem0-pipeline)**
-Three-layer developer memory pipeline — mem0 fact extraction, Qdrant vector store, and Neo4j entity graph — with Claude reasoning over both layers for deep developer insight generation from GitHub activity signals.
+Three-layer developer memory pipeline — mem0 fact extraction, Qdrant vector store, and Neo4j entity graph — with Claude reasoning over both layers for deep developer insight generation from GitHub activity signals. Contributed as a [cookbook to mem0ai/mem0](https://github.com/mem0ai/mem0/pull/5093).
 
 **[Dual Agent Memory](https://github.com/TanishkaMarrott/dual-agent-memory)**
 Two Claude agents (AWS Resource Finder + AWS Recommender) sharing a persistent Hindsight memory bank via the Claude Agent SDK. Demonstrates tool use, agentic loops, and cross-agent memory patterns.
